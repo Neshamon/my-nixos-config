@@ -1,0 +1,6 @@
+
+# Editors
+
+[
+	./lite-xl
+]

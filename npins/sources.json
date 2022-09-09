@@ -1,0 +1,59 @@
+{
+  "pins": {
+    "awesome": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "awesomeWM",
+        "repo": "awesome"
+      },
+      "branch": "master",
+      "revision": "b7bac1dc761f7e231355e76351500a97b27b6803",
+      "url": "https://github.com/awesomeWM/awesome/archive/b7bac1dc761f7e231355e76351500a97b27b6803.tar.gz",
+      "hash": "0140429rlfpfnjz6rviy8s5s7x7pyrs3mmbx0qplkfww0ilrs72b"
+    },
+    "hosts": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "stevenblack",
+        "repo": "hosts"
+      },
+      "branch": "master",
+      "revision": "448cc754ad8b811e0c19e3dbee99e9f7d198e1df",
+      "url": "https://github.com/stevenblack/hosts/archive/448cc754ad8b811e0c19e3dbee99e9f7d198e1df.tar.gz",
+      "hash": "0rh3h45ig75q2q9v304j70nl2gk36mhgw16a2miw5ld08iwxrmnh"
+    },
+    "lite-xl": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "lite-xl",
+        "repo": "lite-xl"
+      },
+      "branch": "master",
+      "revision": "77cebd834144fef135b32cca857891b82c9f4687",
+      "url": "https://github.com/lite-xl/lite-xl/archive/77cebd834144fef135b32cca857891b82c9f4687.tar.gz",
+      "hash": "1p4nkz6vr39z6s3rkzj3g5f52mz0va17bsyl04xq2l946r3zjk0m"
+    },
+    "nixpkgs": {
+      "type": "Channel",
+      "name": "nixpkgs-unstable",
+      "url": "https://releases.nixos.org/nixpkgs/nixpkgs-22.11pre398470.80fc83ad314/nixexprs.tar.xz",
+      "hash": "1iwyafgc3iwr137a3wznmsd17mbwlg0qc8s1whpcbs8158nb5xpa"
+    },
+    "wezterm": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "wez",
+        "repo": "wezterm"
+      },
+      "branch": "main",
+      "revision": "ac3a9c001b3ff78eb4ed2770b22984bd99f8ed49",
+      "url": "https://github.com/wez/wezterm/archive/ac3a9c001b3ff78eb4ed2770b22984bd99f8ed49.tar.gz",
+      "hash": "1ry7wkfzwcvhibxsnfnk49sr4viabivmmm21v49xig61srjrkf6r"
+    }
+  },
+  "version": 2
+}
